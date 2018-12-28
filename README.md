@@ -1,2 +1,56 @@
-# Books
-En lista med alla böcker som jag har läst sedan 2011
+
+## 2018 (4)
+- **Colorless Tsukuru Tazaki** (english) - Haruki Murakami (2014)
+- **Låt den rätte komma in** (svenska) - John Ajvide Lindqvist (2004)
+- Omgiven av idioter (svenska) - Thomas Erikson (2014)
+- **Gone girl** (english) - Gillian Flynn (2012)
+
+## 2017 (3)
+- **Hjärnstark** (svenska) - Anders Hansen (2017)
+- Ett oskrivet blad (svenska) - Marie Hermanson (2001)
+- **En sån som du** (svenska) - Gillian Flynn (2014)
+
+## 2016 (3)
+- Paganinikontraktet (svenska) - Lars Kepler (2010)
+- **1Q84** (english) - Haruki Murakami (2009)
+- **The martian** (english) - Andy Weir (2011)
+
+## 2015 (3)
+- **Ubik** (english) - Philip K. Dick (1969)
+- Jag är Zlatan Ibrahimovic (svenska) - David Lagercrantz (2011)
+- **iWoz** (english) - Steve Wozniak (2007)
+
+## 2014 (6)
+- **Eddy Merckx. The Cannibal** (english) - Daniel Friebe (2012)
+- Looking for Alaska (english) - John Green (2005)
+- Damned (english) - Chuck Palahniuk (2011)
+- **The man in the high castle** (english) - Philip K. Dick (1962)
+- **The curious incident of the dog in the night-time** (english) - Mark Haddon (2003)
+- Quiet (english) - Susan Cain (2012)
+
+## 2013 (9)
+- **Generation kill** (english) - Evan Wright (2004)
+- **What I talk about when I talk about running** (english) - Haruki Murakami (2007)
+- Vad pratar jag om när jag pratar om löpning (svenska) - Haruki Murakami (2007)
+- Patagonia express (español) - Luis Sepúlveda (1995)
+- Aeropuertos (español) - Alberto Fuguet (2010)
+- Torka aldrig tårar utan handskar (svenska) - Jonas Gardell (2012)
+- Diario de un killer sentimental (español) - Luis Sepúlveda (1998)
+- Historias marginales (español) - Luis Sepúlveda (2000)
+- Bröderna lejonhjärta (svenska) - Astrid Lindgren (1973)
+
+## 2012 (6)
+- Haunted (english) - Chuck Palahniuk (2005)
+- **Kafka on the shore** (english) - Haruki Murakami (2002)
+- Hot line (español) - Luis Sepúlveda (2002)
+- Choke (english) - Chuck Palahniuk (2001)
+- **Survivor** (engelska) - Chuck Palahniuk (1999)
+- **Fight club** (engelska) - Chuck Palahniuk (1996)
+
+## 2011 (6)
+- Hollywood (engelska) - Charles Bukowski (1989)
+- Pulp (engelska) - Charles Bukowski (1994)
+- Factotum (engelska) - Charles Bukowski (1975)
+- Post Office (engelska) - Charles Bukowski (1971)
+- **Ham on Rye** (engelska) - Charles Bukowski (1982)
+- Cortos (spanska) - Alberto Fuguet (2004)
