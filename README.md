@@ -1,4 +1,5 @@
-## 2018 (4)
+## 2018 (5)
+- Nattrodd (svenska) - John Ajvide Lindqvist (2018)
 - **Colorless Tsukuru Tazaki** (english) - Haruki Murakami (2014)
 - **Låt den rätte komma in** (svenska) - John Ajvide Lindqvist (2004)
 - Omgiven av idioter (svenska) - Thomas Erikson (2014)
