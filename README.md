@@ -1,5 +1,5 @@
 ## 2019
-- Sputnikälskling (svenska) - Haruki Murakami (1999)
+- **Sputnikälskling** (svenska) - Haruki Murakami (1999)
 
 ## 2018 (5)
 - Nattrodd (svenska) - John Ajvide Lindqvist (2018)
