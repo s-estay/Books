@@ -1,5 +1,5 @@
-## 2019
-- La casa de los espíritus (español) - Isabel Allende (1982)
+## 2019 (2)
+- **La casa de los espíritus** (español) - Isabel Allende (1982)
 - **Sputnikälskling** (svenska) - Haruki Murakami (1999)
 
 ## 2018 (5)
