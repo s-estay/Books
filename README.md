@@ -1,4 +1,5 @@
-## 2019 (2)
+## 2019 (3)
+- Hunden som vågade drömma (svenska) - Sun-Mi Hwang (2012)
 - **La casa de los espíritus** (español) - Isabel Allende (1982)
 - **Sputnikälskling** (svenska) - Haruki Murakami (1999)
 
