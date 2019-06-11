@@ -61,4 +61,4 @@
 - **Ham on Rye** (engelska) - Charles Bukowski (1982)
 - Cortos (spanska) - Alberto Fuguet (2004)
 
-![](https://github.com/s-estay/Books/blob/master/C4B66FB5-94DA-41F5-A34C-2BF06A9E91F9.jpeg)
+![](https://github.com/s-estay/Books/blob/master/books.jpeg)
