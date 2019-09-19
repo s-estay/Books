@@ -1,6 +1,7 @@
 ![](https://github.com/s-estay/Books/blob/master/books.jpeg)
 
-## 2019 (8)
+## 2019 (9)
+- Doktor Glas (svenska) - Hjalmar Söderberg (1905)
 - Nyckeln (svenska) - Mats Strandberg & Sara Bergmark Elfgren (2013)
 - **Eld** (svenska) - Mats Strandberg & Sara Bergmark Elfgren (2012)
 - **Cirkeln** (svenska) - Mats Strandberg & Sara Bergmark Elfgren (2011)
