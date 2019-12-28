@@ -2,7 +2,7 @@
 
 ## 2019 (11)
 - Det är något som inte stämmer (svenska) - Martina Haag (2015)
-- Life 3.0 (engelska) - Max Tegmark (2017)
+- **Life 3.0** (engelska) - Max Tegmark (2017)
 - **Doktor Glas** (svenska) - Hjalmar Söderberg (1905)
 - Nyckeln (svenska) - Mats Strandberg & Sara Bergmark Elfgren (2013)
 - **Eld** (svenska) - Mats Strandberg & Sara Bergmark Elfgren (2012)
