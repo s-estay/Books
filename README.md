@@ -3,6 +3,9 @@
 ## 2019 (11)
 - Det är något som inte stämmer (svenska) - Martina Haag (2015)
 - **Life 3.0** (engelska) - Max Tegmark (2017)
+
+> (There're) two kind of optimism. First there's the unconditional kind, such as the positive expectation that the Sun will rise tomorrow morning. Then there's what (is) called *mindful optimism*, which is the expectation that good things will happen if you plan carefully and work hard for them. (...) To be a successful mindful optimist, it's crucial to develop positive visions for the future. (...) After all, why sacrify something you have if you can't imagine the even greater gain that this will provide? (We should be encouraged) to think about what sort of future (we) *want* rather than merely what sort of future (we) *fear*.
+
 - **Doktor Glas** (svenska) - Hjalmar Söderberg (1905)
 - Nyckeln (svenska) - Mats Strandberg & Sara Bergmark Elfgren (2013)
 - **Eld** (svenska) - Mats Strandberg & Sara Bergmark Elfgren (2012)
