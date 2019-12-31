@@ -2,11 +2,17 @@
 
 ## 2019 (11)
 - Det är något som inte stämmer (svenska) - Martina Haag (2015)
+
+> Att bli lurad av den som var ens närmsta, man tror att man är på väg att bli galen, men det är sörgen över sveket som gör att man känner sig tokig, att det känns som om man håller på att tappa det fullständigt. Jag vill berätta att man klarar sig, fastän man faller tusen meter i sorg. Att man tror att man ska dö, men man överlever. Jag hade behövt höra det hundratals gånger. Allt går, på något konstigt sätt så går det till slut. Även om man dör ganska mycket på vägen.
+
 - **Life 3.0** (engelska) - Max Tegmark (2017)
 
 > (There're) two kind of optimism. First there's the unconditional kind, such as the positive expectation that the Sun will rise tomorrow morning. Then there's what (is) called *mindful optimism*, which is the expectation that good things will happen if you plan carefully and work hard for them. (...) To be a successful mindful optimist, it's crucial to develop positive visions for the future. (...) After all, why sacrify something you have if you can't imagine the even greater gain that this will provide? (We should be encouraged) to think about what sort of future (we) *want* rather than merely what sort of future (we) *fear*.
 
 - **Doktor Glas** (svenska) - Hjalmar Söderberg (1905)
+
+> Man vill bli älskad, i brist därpå beundrad, i brist därpå fruktad, i brist därpå avskydd och föraktad. Man vill ingiva människörna någon slags känsla. Själen ryser för tomrummet och vill kontakt till vad pris som helst.
+
 - Nyckeln (svenska) - Mats Strandberg & Sara Bergmark Elfgren (2013)
 - **Eld** (svenska) - Mats Strandberg & Sara Bergmark Elfgren (2012)
 - **Cirkeln** (svenska) - Mats Strandberg & Sara Bergmark Elfgren (2011)
@@ -40,6 +46,9 @@
 
 ## 2014 (6)
 - **Eddy Merckx. The Cannibal** (english) - Daniel Friebe (2012)
+
+> Merckx, a super-winner in unprecedented fashion, scurries away looking a tiny bit bored, with nothing to say, not even a word of satisfaction. It comes as the biggest surprise to discover that Merckx isn't a robot constructed by engineers. He turned himself into a robot. With him there is no sense of aspiration, no sense of predestination, no flame. Just the realisation that he was unique, different from the rest, and he had to take advantage of that. And so he turned himself into a machine with extraordinary attention to detail and permanent application. He is the human bicycle.
+
 - Looking for Alaska (english) - John Green (2005)
 - Damned (english) - Chuck Palahniuk (2011)
 - **The man in the high castle** (english) - Philip K. Dick (1962)
