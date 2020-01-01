@@ -1,11 +1,14 @@
 ![](https://github.com/s-estay/Books/blob/master/books.jpeg)
 
+## 2020 (1)
+- Artemis (english) - Andy Weir (2017)
+
 ## 2019 (11)
 - Det är något som inte stämmer (svenska) - Martina Haag (2015)
 
 > Att bli lurad av den som var ens närmsta, man tror att man är på väg att bli galen, men det är sörgen över sveket som gör att man känner sig tokig, att det känns som om man håller på att tappa det fullständigt. Jag vill berätta att man klarar sig, fastän man faller tusen meter i sorg. Att man tror att man ska dö, men man överlever. Jag hade behövt höra det hundratals gånger. Allt går, på något konstigt sätt så går det till slut. Även om man dör ganska mycket på vägen.
 
-- **Life 3.0** (engelska) - Max Tegmark (2017)
+- **Life 3.0** (english) - Max Tegmark (2017)
 
 > (There're) two kind of optimism. First there's the unconditional kind, such as the positive expectation that the Sun will rise tomorrow morning. Then there's what (is) called *mindful optimism*, which is the expectation that good things will happen if you plan carefully and work hard for them. (...) To be a successful mindful optimist, it's crucial to develop positive visions for the future. (...) After all, why sacrify something you have if you can't imagine the even greater gain that this will provide? (We should be encouraged) to think about what sort of future (we) *want* rather than merely what sort of future (we) *fear*.
 
@@ -21,6 +24,8 @@
 - Hunden som vågade drömma (svenska) - Sun-Mi Hwang (2012)
 - **La casa de los espíritus** (español) - Isabel Allende (1982)
 - **Sputnikälskling** (svenska) - Haruki Murakami (1999)
+
+> Jag har faktiskt blivit kär i den här personen (...). Det råder inget tvivel om saken (...). Den här förälskelsen är på väg att föra mig bort någonstans. Och det ser inte ut att finnas någonting som kan dra mig undan den stärka strömmen. Jag har inget annat val. Kanske för den mig till en särskild värld som jag aldrig förr har sett. Kanske till en farlig plats. Kanske det som döljer sig där kommer att skada mig djupt och dödligt. Kanske kommer jag att förlora allt jag har. Men det finns inte längre någon återvändo. Jag kan inte göra annat än att överlämna mig själv till strömmen som jag har framför mig. Även om det kommer att innebära att den människa som jag är bränns upp i lågorna och går förlorad.
 
 ## 2018 (5)
 - Nattrodd (svenska) - John Ajvide Lindqvist (2018)
