@@ -1,6 +1,7 @@
 ![](https://github.com/s-estay/Books/blob/master/books.jpeg)
 
-## 2020 (1)
+## 2020 (2)
+- Largo pétalo de mar (español) - Isabel Allende (2019)
 - **Artemis** (english) - Andy Weir (2017)
 
 ## 2019 (11)
