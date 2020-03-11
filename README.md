@@ -1,7 +1,8 @@
 ![](https://github.com/s-estay/Books/blob/master/books.jpeg)
 
-## 2020 (2)
+## 2020 (3)
 - Largo pétalo de mar (español) - Isabel Allende (2019)
+- **12 rules for life** (english) - Jordan B. Peterson (2018)
 - **Artemis** (english) - Andy Weir (2017)
 
 ## 2019 (11)
