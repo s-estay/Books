@@ -1,8 +1,11 @@
 ![](https://github.com/s-estay/Books/blob/master/books.jpeg)
 
-## 2020 (4)
-- Efter mörkrets inbrott (svenska) - Haruki Murakami (2004)
+## Kö
+- Jag for ner till bror (svenska) - Karin Smirnoff (2019)
 - Largo pétalo de mar (español) - Isabel Allende (2019)
+
+## 2020 (3)
+- Efter mörkrets inbrott (svenska) - Haruki Murakami (2004)
 - **12 rules for life** (english) - Jordan B. Peterson (2018)
 - **Artemis** (english) - Andy Weir (2017)
 
