@@ -1,12 +1,16 @@
 ![](https://github.com/s-estay/Books/blob/master/books.jpeg)
 
-## Kö
+<!--
 - Jag for ner till bror (svenska) - Karin Smirnoff (2019)
-- Largo pétalo de mar (español) - Isabel Allende (2019)
 - Elon Musk: Tesla, Spacex, and the quest for a fantastic future (english) - Ashlee Vance (2017)
+-->
 
 ## 2020 (3)
+- Largo pétalo de mar (español) - Isabel Allende (2019)
 - Efter mörkrets inbrott (svenska) - Haruki Murakami (2004)
+
+> "Men två personer kan ju ha ett lagom avstånd mellan sig och ändå komma varandra nära, eller hur?" säger Mari. "Självklart", säger Takahashi. "Självklart kan de det. Men det kan ju hända att det som en viss person person uppfattar som ett lagom avstånd känns för långt för en annan person."
+
 - **12 rules for life** (english) - Jordan B. Peterson (2018)
 - **Artemis** (english) - Andy Weir (2017)
 
