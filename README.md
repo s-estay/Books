@@ -1,17 +1,19 @@
 ![](https://github.com/s-estay/Books/blob/master/books.jpeg)
 
-<!--
-- Jag for ner till bror (svenska) - Karin Smirnoff (2019)
-- Elon Musk: Tesla, Spacex, and the quest for a fantastic future (english) - Ashlee Vance (2017)
--->
+## 2020 (5)
+- The infinite game (english) - Simon Sinek (2019)
+- **Largo pétalo de mar** (español) - Isabel Allende (2019)
 
-## 2020 (4)
-- Largo pétalo de mar (español) - Isabel Allende (2019)
+> "Muchos de los desterrados de la guerra fueron regresando, la mayoría viejos y desencantados, pero ya no había lugar para ellos. Nadie los recordaba."
+
 - Efter mörkrets inbrott (svenska) - Haruki Murakami (2004)
 
 > "Men två personer kan ju ha ett lagom avstånd mellan sig och ändå komma varandra nära, eller hur?" säger Mari. "Självklart", säger Takahashi. "Självklart kan de det. Men det kan ju hända att det som en viss person person uppfattar som ett lagom avstånd känns för långt för en annan person."
 
 - **12 rules for life** (english) - Jordan B. Peterson (2018)
+
+> "So, listen, to yourself and to those with whom you are speaking. Your wisdom then consists not of the knowledge you already have, but the continual search for knowledge, which is the highest form of wisdom."
+
 - **Artemis** (english) - Andy Weir (2017)
 
 ## 2019 (11)
