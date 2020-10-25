@@ -4,7 +4,7 @@
 - The infinite game (english) - Simon Sinek (2019)
 - **Largo pétalo de mar** (español) - Isabel Allende (2019)
 
-> "Muchos de los desterrados de la guerra fueron regresando, la mayoría viejos y desencantados, pero ya no había lugar para ellos. Nadie los recordaba."
+> "Se despidieron con el compromiso de mantenerse en contacto, aunque sabían que era sólo una formalidad. Víctor se sintió aliviado: si no vive lo suficiente, los círculos se cierran."
 
 - Efter mörkrets inbrott (svenska) - Haruki Murakami (2004)
 
