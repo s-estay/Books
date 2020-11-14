@@ -2,6 +2,9 @@
 
 ## 2020 (5)
 - The infinite game (english) - Simon Sinek (2019)
+
+> "(...) leaders are not responsible for the results, leaders are responsible for the people how are responsible for the results. And the best way to drive performance in an organization is to create an environment in which information can flow freely, mistakes can be highlighted and help can be offered and received. In short, an environment in which people feel safe among their own. This is the responsibility of a leader."
+
 - **Largo pétalo de mar** (español) - Isabel Allende (2019)
 
 > "Se despidieron con el compromiso de mantenerse en contacto, aunque sabían que era sólo una formalidad. Víctor se sintió aliviado: si no vive lo suficiente, los círculos se cierran."
