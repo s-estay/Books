@@ -1,6 +1,8 @@
 ![](https://github.com/s-estay/Books/blob/master/books.jpeg)
 
-## 2020 (6)
+## 2020 (7)
+- Mordet på kommendören: Första boken (svenska) - Haruki Murakami (2017)
+
 - Svampkungens son (svenska) - Marie Hermanson (2007)
 
 - **The infinite game** (english) - Simon Sinek (2019)
