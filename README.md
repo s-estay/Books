@@ -1,7 +1,7 @@
 ![](https://github.com/s-estay/Books/blob/master/books.jpeg)
 
 ## 2020 (7)
-- Mordet på kommendören: Första boken (svenska) - Haruki Murakami (2017)
+- Dune (english) - Frank Herbert (1965)
 
 - Svampkungens son (svenska) - Marie Hermanson (2007)
 
