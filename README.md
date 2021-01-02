@@ -1,5 +1,8 @@
 ![](https://github.com/s-estay/Books/blob/master/books.jpeg)
 
+## 2021 (1)
+- The thursday murder club (english) - Richard Osman (2020)
+
 ## 2020 (8)
 - **Elon Musk. Tesla, SpaceX och jakten på en fantastisk framtid** (svenska) - Ashlee Vance (2015)
 
