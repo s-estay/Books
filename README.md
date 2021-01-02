@@ -16,7 +16,7 @@
 
 - **Largo pétalo de mar** (español) - Isabel Allende (2019)
 
-> "Se despidieron con el compromiso de mantenerse en contacto, aunque sabían que era sólo una formalidad. Víctor se sintió aliviado: si no vive lo suficiente, los círculos se cierran."
+> "Se despidieron con el compromiso de mantenerse en contacto, aunque sabían que era sólo una formalidad. Víctor se sintió aliviado: si uno vive lo suficiente, los círculos se cierran."
 
 - Efter mörkrets inbrott (svenska) - Haruki Murakami (2004)
 
