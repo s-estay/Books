@@ -1,6 +1,7 @@
 ![](https://github.com/s-estay/Books/blob/master/books.jpeg)
 
-## 2021 (1)
+## 2021 (2)
+- 80/20-regeln (svenska) - Richard Koch (2015)
 - The thursday murder club (english) - Richard Osman (2020)
 
 ## 2020 (8)
